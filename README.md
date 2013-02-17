@@ -1,6 +1,6 @@
-the-laughing-man-generator
+The Laughing Man Generator
 ==========================
-The laughing generator just for fun :P
+just for fun :P
 
 demo: http://goo.gl/ByTJc
 
