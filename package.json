@@ -1,7 +1,7 @@
 {
-  "name": "8gua-api-ex",
+  "name": "the-laughing-man-generator",
   "version": "0.1.0",
-  "description": "Restful API for 8GC and quick-ptt",
+  "description": "the laughing man generator for fun",
   "author": "vansteki <vansteki.tw@gmail.com.com>",
   "dependencies": {
     "express": ">= 3.1.0",
