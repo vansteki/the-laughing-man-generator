@@ -9,6 +9,11 @@ demo: http://goo.gl/ByTJc
     npm install joi
 
 ## Usage
+    
+    node app.js
+
+####View result
+
     http://localhost:543/edit/[type something u want]
 
 
