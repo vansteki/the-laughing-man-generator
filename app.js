@@ -1,13 +1,11 @@
 // create server.
 var express = require('express'),
-app = express(),
-port = 543;
-var Joi = require('joi');
-var mysql = require('mysql');
-//var fs = require('fs');
-enableCache = 'yes'
-var cacheMaxAge = 86400/6;
-app.listen(port);
+    app = express(),
+    port = 543,
+    Joi = require('joi'),
+    enableCache = 'yes',
+    var cacheMaxAge = 86400/6,
+    app.listen(port);
 
 var allowCrossDomain = function(req, res, next) {
     res.header('Access-Control-Allow-Origin', '*');
